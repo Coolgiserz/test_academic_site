@@ -1,36 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 李海峰
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: 教授，博士生导师
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 中南大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 主要研究兴趣地理/遥感大数据，机器/深度学习，人工/类脑智能
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 类脑智能
+- 地理大数据
+- 深度学习
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: 摄影测量与遥感，工学博士
+    institution: 武汉大学
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: 智能交通理论与方法 工学硕士
+    institution: 华南理工大学
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: 工学学士
+    institution: 长沙理工大学
     year: 2008
 
 # Social/Academic Networking
@@ -41,15 +40,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=51p_SJAAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lehaifeng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+现任中南大学地球科学与信息物理学院教授，博士生导师，地理信息系主任，龙城英才计划，中南大学321人才。2011年在香港理工大学担任事高级研究助理，2014年作为访问学者在美国伊利诺伊大学香槟分校从事空间大数据与服务智能方面研究。目前主持军委科技委创新特区项目1项，GF重大专项1项，国家自然基金项目3项，国家重点研发项目子课题2项，省部级科研项目10余项。在Environmental Research Letters，ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Trans. on ITS，Information Science等顶级期刊发表论文40余篇，其中ESI1‰论文1篇，合著专著4部，申请发明专利20余项 ，Remote Sensing等SCI期刊编委。主要研究兴趣地理/遥感大数据，机器/深度学习，人工/类脑智能。

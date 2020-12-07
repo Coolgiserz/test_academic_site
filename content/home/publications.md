@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "近期论文"
 subtitle = ""
 
 [content]
@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+通过[论文过滤工具](./publication/)快速筛选论文.
 {{% /callout %}}

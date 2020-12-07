@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic Template"
+title = "GeoXLab团队主页"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "word_cloud.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,22 +37,11 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
+  url = "#joinus"
+  label = "加入我们"
   icon_pack = "fas"
-  icon = "download"
   
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
-
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
+我们小组：GeoXLab = Geospatial + X
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+我们的使命:  探索空间通用智能的可能性，设计具有记忆能力、自学习能力的AI算法，帮助解决地理学和现实世界的问题。
