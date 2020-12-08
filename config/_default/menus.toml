@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "成员"
+  url = "people/"
+  weight = 10
+
+[[main]]
   name = "博客"
   url = "post/"
   weight = 20
