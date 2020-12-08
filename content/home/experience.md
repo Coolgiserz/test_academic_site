@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_start = "2011-01-01"
   date_end = ""
   description = """研究方向：
-  G空间信息服务"""
+  空间信息服务"""
 
 
 +++
